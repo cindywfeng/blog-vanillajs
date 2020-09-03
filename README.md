@@ -3,7 +3,7 @@
 A Vanilla JS App connected to a SQL database that allows users to post and store their blog posts.
 
 ## Created by
-[Alex](http://github.com/AKP-13) & [CINDY](http://github.com/cindywfeng)
+[Alex](http://github.com/AKP-13) & [Cindy](http://github.com/cindywfeng)
 
 ## Instructions
 - npm install
