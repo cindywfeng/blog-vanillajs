@@ -13,6 +13,6 @@ Alex (AKP-13) & Cindy (Cindywfeng)
 - npm start
 - open index.html
 
-![Repo Image 1](/images/blog.png)
-![Repo Image 2](/images/blog1.png)
+![Repo Image 1](./images/blog.png)
+![Repo Image 2](./images/blog1.png)
 
