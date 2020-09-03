@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+/* font-family: 'Open Sans', sans-serif; */
+
+body {
+    background-image: radial-gradient( circle farthest-corner at 1.5% 1.4%,  rgba(159,227,255,1) 0%, rgba(255,177,219,1) 100.2% );
+    background-repeat: none;
+    padding-bottom:150px ;
+    color: grey;
+    
+}
+
+#postform {
+    margin-top: 5%;
+   font-family: 'Open Sans', sans-serif;
+   text-align: center;
+
+}
+
+#title {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: #ddd;
+}
+
+#title:focus {
+    outline: none;
+} 
+
+
+#author {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: #ddd;
+
+}
+
+#author:focus {
+     outline: none;
+} 
+
+#story {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border: #ddd;
+
+}
+
+#story:focus {
+    outline: none;
+} 
+
+
+#submit {
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    border: #ddd;
+    background-color: rgb(245, 245, 245);
+
+}
+
+#submit:focus {
+    outline: none;
+} 
+
+
+#submit:hover {
+    font-weight: 700;
+    background-color: rgba(255, 177, 219, 0.397);
+    color: black;
+}
+
+#posts{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+p {
+    font-weight: 700;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
+
+li:hover {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: black;
+}
+
+
+
+h3{
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+
+}
+
+h2{
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin: auto 20%;
+    text-align: auto;
+    font-weight: 100;
+
+}
